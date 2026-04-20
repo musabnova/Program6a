@@ -17,8 +17,12 @@ Create a servlet to calculate factorial of a number using HTML form.
 3. Enter number and submit
 
 ## Output
-![Output1](https://github.com/musabnova/Program6a/blob/master/1.png)
-![Output2](https://github.com/musabnova/Program6a/blob/master/2.png)
+
+### Input Page
+<img src="https://github.com/musabnova/Program6a/blob/master/1.png" width="400"/>
+
+### Result Page
+<img src="https://github.com/musabnova/Program6a/blob/master/2.png" width="400"/>
 
 ## Result
 Factorial is calculated and displayed successfully.
